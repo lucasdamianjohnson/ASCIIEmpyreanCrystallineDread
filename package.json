@@ -1,0 +1,26 @@
+{
+  "name": "dsfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "files": [
+    "bin"
+  ],
+  "bin": {
+    "dsfc": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "dscom": "^1.0.3",
+    "play-sound": "^1.1.3"
+  }
+}

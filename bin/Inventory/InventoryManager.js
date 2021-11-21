@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.InventoryManager = void 0;
+class InventoryManager {
+    constructor(DS) {
+        this.DS = DS;
+    }
+}
+exports.InventoryManager = InventoryManager;

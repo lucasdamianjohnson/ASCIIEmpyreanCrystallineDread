@@ -1,0 +1,33 @@
+{
+
+    "music" : {
+
+        "overworld" : {
+
+            "path" : "overworld.mp3"
+
+        },
+        "battle-music-1" : {
+
+            "path" : "battle-music-1.mp3"
+
+        },
+        "title-screen-1" : {
+            "path" : "title-screen.mp3"
+        }
+
+    },
+
+    "sfx" : {
+        "blip-1" : {
+            "path" : "blip1.mp3"
+        },
+        "select" : {
+            "path" : "select.mp3"
+        },
+        "cancel" : {
+            "path" : "cancel.mp3"
+        }
+    }
+
+}
